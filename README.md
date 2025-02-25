@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro Felipe</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brt9&color=green" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer & Always willing to learn new technologies
+- 🔥 Web Developer & Always willing to learn new technologies
 
 - 🔭 I’m currently working at state government
 
